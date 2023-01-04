@@ -3,7 +3,7 @@
 Este repositório contém códigos para pré-processamento de dados de postos pluviométricos da Fundação Cearense de Meteorologia (FUNCEME) para análise de séries temporais em linguagem R.
 
 O objetivo é automatizar o tratamento dos dados da FUNCEME em linguagem R, como alternativa ao tratamento dos dados de forma manual usando *softwares* de planilha.
-Este projeto foi desenvolvido durante o meu Mestrado em Desenvolvimento Regional Sustentável (PRODER) da Universidade Federal do Cariri (UFCA).
+Este projeto foi desenvolvido durante o Mestrado em Desenvolvimento Regional Sustentável (PRODER) da Universidade Federal do Cariri (UFCA).
 
 As séries históricas de precipitação pluviométrica da FUNCEME são armazenadas em arquivos de texto que podem ser obtidos dos endereços:
 
