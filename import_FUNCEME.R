@@ -9,7 +9,7 @@
 #' do portal FUNCEME
 #'
 #' @return `list` contendo séries históricas diárias e mensais no formato
-#' `data.frame` e `ts`, e coordenafas geográficas do posto pluviométrico.
+#' `data.frame` e `ts`, e coordenadas geográficas do posto pluviométrico.
 #'
 #' @author Rubens Oliveira da Cunha Júnior (cunhajunior.rubens@gmail.com).
 #' 

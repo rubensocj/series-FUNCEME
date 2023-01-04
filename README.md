@@ -10,7 +10,7 @@ As séries históricas de precipitação pluviométrica da FUNCEME são armazena
 - http://www.funceme.br/?page_id=2694
 - http://www.funceme.br/produtos/script/chuvas/Download_de_series_historicas/DownloadChuvasPublico.php
 
-A função [import_FUNCEME.R](importFUNCEME.R) importa, limpa e organiza os dados para análise de séries temporais a partir de um arquivo de texto, e retorna:
+A função [import_FUNCEME.R](import_FUNCEME.R) importa, limpa e organiza os dados para análise de séries temporais a partir de um arquivo de texto, e retorna:
 
 - Tabelas com as séries históricas diárias e mensais no formato 'data.frame'
 - Séries temporais diárias e mensais no formato 'ts'
@@ -18,7 +18,7 @@ A função [import_FUNCEME.R](importFUNCEME.R) importa, limpa e organiza os dado
 
 ## Instalação
 
-Faça download do código-fonte e utilize a função [import_FUNCEME.R](importFUNCEME.R).
+Faça download do código-fonte e utilize a função [import_FUNCEME.R](import_FUNCEME.R).
 
 ## Exemplo
 
